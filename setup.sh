@@ -39,7 +39,7 @@ apt update -y && apt install -y bzip2 gzip coreutils screen curl ruby figlet lol
 cd && clear
 
 #Verify Premium User
- figlet "Firdaus project" | lolcat
+ figlet "ARLAN project" | lolcat
  echo ""
  echo "    TO INSTAL AND USE OUR FEATURES A LICENCE IS REQUIRED!"
  echo ""
