@@ -10,7 +10,7 @@ server_owner=https://raw.githubusercontent.com/arlanstore/premium/main
   echo ""
   else
   clear
-  figlet Firdaus project | lolcat
+  figlet ARLAN project | lolcat
   echo ""
   echo "   YOU DONT HAVE ACCESS TO RUN THIS SCRIPT"
   echo ""
@@ -28,7 +28,7 @@ server_owner=https://raw.githubusercontent.com/arlanstore/premium/main
 
 apt install jq curl -y
 clear
-figlet Firdaus project | lolcat
+figlet ARLAN project | lolcat
 echo ""
 echo "   We provide three (3) domains for you,"
 echo "   including > premium.firdausjr.xyz"

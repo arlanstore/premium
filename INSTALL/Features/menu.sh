@@ -8,7 +8,7 @@ server_owner=https://raw.githubusercontent.com/arlanstore/premium/main # Informa
   echo ""
   else
   clear
-  figlet Firdaus project | lolcat
+  figlet ARLAN project | lolcat
   echo ""
   echo "   AUTOSCRIPT HAS EXPIRED"
   echo ""
@@ -62,7 +62,7 @@ server_owner=https://raw.githubusercontent.com/arlanstore/premium/main # Informa
   clear
 
 # Screen
-  figlet "  AUTOSCRIPT.NET" | lolcat
+  figlet "  ARLAN STORE" | lolcat
   echo "$(tput setaf 8)#By ARLAN project <?>$(tput sgr 0)"
   echo "---------------------------------------------------------------------------------------" | lolcat
   echo "  <> SSH & OVPN <> ALL VPN <> WEBMIN | MANUAL <> TOOLS HACKING <> CREDIT CARD VULN <>  " | lolcat

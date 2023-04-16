@@ -10,7 +10,7 @@ server_owner=https://raw.githubusercontent.com/arlanstore/premium/main
   echo ""
   else
   clear
-  figlet Firdaus project | lolcat
+  figlet ARLAN project | lolcat
   echo ""
   echo "   AUTOSCRIPT HAS EXPIRED"
   echo ""
@@ -53,7 +53,7 @@ server_owner=https://raw.githubusercontent.com/arlanstore/premium/main
 # Check version autoscript
   if [ ! $(cat /home/ver) = "" ]; then
         old=$(cat /home/ver)
-        who=Firdaus-Project
+        who=ARLAN-Project
         check=$(curl -s ${server_owner}/Autoscript/version | grep ^${who})
         if [[ ${check} = ${who} ]]; then
               new=$(curl -s ${server_owner}/Autoscript/version | grep ^${old} | cut -d ' ' -f 3)
@@ -72,7 +72,7 @@ server_owner=https://raw.githubusercontent.com/arlanstore/premium/main
   fi
 
 clear # screen for menu settings
-figlet Firdaus project | lolcat
+figlet ARLAN project | lolcat
 echo ""
 echo "═════════════════════════════════════════════════════" | lolcat
 echo "|                 -=Manage Your VPS=-               |"
